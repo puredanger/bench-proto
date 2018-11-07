@@ -1,0 +1,5 @@
+{:paths ["src"]
+ :aliases
+ {:c9 {:override-deps {org.clojure/clojure {:mvn/version "1.9.0"}}}
+  :c10 {:override-deps {org.clojure/clojure {:mvn/version "1.10.0-beta5"}}}
+  :cdev {:classpath-overrides {org.clojure/clojure "/Users/alex/code/clojure/target/classes"}}}}
