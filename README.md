@@ -91,5 +91,3 @@ run external
 "Elapsed time: 12006.195661 msecs"
 "Elapsed time: 11979.886142 msecs"
 ```
-
-x
